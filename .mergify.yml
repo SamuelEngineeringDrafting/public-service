@@ -1,3 +1,5 @@
+extends: internal-release-config
+
 pull_request_rules:
   - name: local rule
     conditions:
