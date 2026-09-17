@@ -1,6 +1,4 @@
-queue_rules:
-  - name: default
-    merge_conditions: []
+extends: internal-release-config
 
 pull_request_rules:
   - name: local rule
